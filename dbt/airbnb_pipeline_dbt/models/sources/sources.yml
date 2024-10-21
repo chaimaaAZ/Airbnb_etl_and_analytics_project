@@ -1,0 +1,11 @@
+version: 2
+
+sources: 
+  - name: airbnb_pipeline
+    database: airbnb_db
+    schema: airbnb
+    tables: 
+      - name: "neighborhood"
+      - name: "listings"
+      - name: "reviews"
+      - name: "calendar"

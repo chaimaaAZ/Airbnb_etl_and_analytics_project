@@ -1,0 +1,20 @@
+engine_version: 1
+sources:
+  mongodb:
+    is_dirty: false
+    last_commit_sha: e7c6683aeab6db7ebe1ce7d16bf5f6a4cff57325
+    last_commit_timestamp: '2024-10-02T18:46:27+02:00'
+    files:
+      mongodb\helpers.py:
+        commit_sha: e7c6683aeab6db7ebe1ce7d16bf5f6a4cff57325
+        git_sha: fe5dcc69c1a54528f67fce999df2b4a45440b695
+        sha3_256: 1b6cf6adb5311d7405be15f4e6244ba2bc39bf71aaab1bdf217062f682a881a3
+      mongodb\README.md:
+        commit_sha: e7c6683aeab6db7ebe1ce7d16bf5f6a4cff57325
+        git_sha: b82785fa42f24f8a37ba1040782f0dcb283937bd
+        sha3_256: 848c011055d4f4a6eee26b5dbe3db36a557963c2fa4d2a1fb1ed9215a24e90bb
+      mongodb\__init__.py:
+        commit_sha: e7c6683aeab6db7ebe1ce7d16bf5f6a4cff57325
+        git_sha: db6b9d054edde14aa7b7536961a3cf0e481e4209
+        sha3_256: 44a7bfa3ea637d84b672ed29a5c81ddce8d601e1bcefb685a54d7223fbc898a5
+    dlt_version_constraint: '>=0.5.1'
